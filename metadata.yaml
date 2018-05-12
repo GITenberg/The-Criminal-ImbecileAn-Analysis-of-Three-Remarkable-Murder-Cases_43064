@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '42006'
     url: http://www.gutenberg.org/2009/agents/42006
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43064#The-Criminal-ImbecileAn-Analysis-of-Three-Remarkable-Murder-Cases
 gutenberg_issued: '2013-06-29'
 gutenberg_type: Text
 identifiers:
