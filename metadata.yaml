@@ -1,0 +1,31 @@
+_repo: The-Criminal-ImbecileAn-Analysis-of-Three-Remarkable-Murder-Cases_43064
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43064-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Goddard, Henry Herbert
+    birthdate: 1866
+    deathdate: 1957
+    gutenberg_agent_id: '42006'
+    url: http://www.gutenberg.org/2009/agents/42006
+description: ''
+gutenberg_issued: '2013-06-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43064'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Crime -- Case studies'
+- !lcc 'HV'
+- !lcsh 'Murder -- Case studies'
+- !lcsh 'Offenders with mental disabilities -- Case studies'
+tableOfContents: The case of Jean Gianini -- The case of Roland Pennington -- The
+  case of Fred Tronson -- The criminal imbecile -- Responsibility -- The punishment
+  for criminal imbeciles.
+title: 'The Criminal Imbecile: An Analysis of Three Remarkable Murder Cases'
+url: http://www.gutenberg.org/ebooks/43064
